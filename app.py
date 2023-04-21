@@ -17,7 +17,7 @@ arab_eras_inv = {v: k for k, v in arab_eras.items()}
 
 st.set_page_config(layout="wide")
 
-st.header('Eqtibas :sunglasses:')
+st.header('Eqtibas for Poem :sunglasses:')
 
 with_diacritics = st.selectbox(
     "هل تريد الشعر بالتشكيل؟ ",
